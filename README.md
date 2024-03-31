@@ -17,7 +17,7 @@ which returns the n-th fibonacii number.
 ## Installation
 Ass usual:
 ```sh
-$ git fetch ""
+$ git fetch "https://github.com/kickhead13/fibonacci-number-calulato-rs.git"
 ```
 and
 ```sh
