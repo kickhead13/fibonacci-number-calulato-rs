@@ -2,7 +2,7 @@ use crate::uHuge::uHuge;
 
 static SQUARE_ROOT: f64 = 2.2360679797749979;
 static INVERSE_SQUARE_ROOT: f64 = 1f64 / SQUARE_ROOT;
-const HUGE_SIZE: usize = 1000;
+const HUGE_SIZE: usize = 30000;
 
 pub fn fib_first_expo(n: u64) -> f64 {
 
