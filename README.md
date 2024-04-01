@@ -12,10 +12,10 @@ The most important function of the mod is:
 ```rs
 pub fn fib_iter(n: u128) -> uHuge<HUGE_SIZE>
 ```
-which returns the n-th fibonacii number.
+which returns the n-th fibonacci number.
 
 ## Installation
-Ass usual:
+As usual:
 ```sh
 $ git fetch "https://github.com/kickhead13/fibonacci-number-calulato-rs.git"
 ```
